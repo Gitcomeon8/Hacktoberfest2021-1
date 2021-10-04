@@ -19,6 +19,7 @@
 | Ibnu Ali | [ibnuali](https://github.com/ibnuali) |
 | Akmal | [pandas-id](https://github.com/pandas-id) |
 | Irham Muhammad Shidiq | [irhamshidiq](https://github.com/irhamshidiq) |
+| Agung sesar pamungkas | [agungxp](https://github.com/gitcomeon8) |
 
 
 
